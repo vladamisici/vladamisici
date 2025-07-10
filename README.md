@@ -16,7 +16,7 @@
 
 ## About
 
-Passionate systems programmer with expertise spanning from bare-metal firmware development to computational neuroscience applications. I specialize in performance-critical code and enjoy exploring the intersection of hardware and software engineering, with particular interest in biophysical modeling and scientific computing.
+I work on performance optimization, hardware-software interfaces, and the engineering challenges that come with scientific computing. I like building systems where speed matters and hardware limitations actually shape how you write code. Most of my time is spent on problems that need both understanding the math and making it run fast in practice.
 
 **Current Focus:** Low-level systems programming, algorithm optimization, computational modeling, and cross-platform development
 
