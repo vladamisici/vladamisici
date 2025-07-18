@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Assembly+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Python+%E2%80%A2+Swift;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Assembly+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Python+%E2%80%A2+.NET;" />
 </div>
 
 <div align="center">
@@ -25,12 +25,12 @@ I work on performance optimization, hardware-software interfaces, and the engine
 ## Technical Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,swift,git,github,windows,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,git,github,windows,linux&theme=light" />
 </div>
 
 <div align="center">
   
-**Assembly • C/C++ • Python • Swift • Systems Programming • Performance Optimization • Scientific Computing**
+**Assembly • C/C++ • Python • .NET • Systems Programming • Performance Optimization • Scientific Computing**
   
 </div>
 
